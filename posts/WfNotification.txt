@@ -1,5 +1,1 @@
-{
-    "args":[5357,"CUXTRAN"],
-    "method":"unread_with_message_type",
-    "model":"WfNotification"
-}
+{"args":[5357,"CUXTRAN"],"method":"unread_with_message_type","model":"WfNotification"}
